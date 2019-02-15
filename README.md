@@ -1,1 +1,1 @@
-# wifi-module
+# WiFi-module
